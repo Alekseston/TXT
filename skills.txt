@@ -1,0 +1,12 @@
+{"skills":["GitBash",
+"GitHab",
+"SQL",
+"JSON",
+"XML",
+"API",
+"HTTP",
+"DevTools",
+"Linux terminal",
+"Python",
+"Scrum"]
+}

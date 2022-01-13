@@ -1,0 +1,14 @@
+{
+"Title":"Design problem in the footer on all pages with a dark theme, always",
+"Environment":["Device":"Laptop Lenovo 13s-IWL",
+"OS":"Windows 10 Pro x64",
+"Connection type":"WiFi",
+"Browser":"Chrome 97.0.4692.71 64bit",
+"Reproducibility Rate":"3"],
+"Steps to Reproduce":["1":"Open https://enholding.ru/","2":"Scroll to show footer"],
+"Expected Result":"Background design with smooth transitions",
+"Actual Result":"Around the light switch there is a sharp transition to the rest of the 
+background and the line separating the basement changes its thickness abruptly",
+"Proof":"https://github.com/Alekseston/JSON/blob/dce654e94ac0f9acf22fe9e4474e099480290a4d/screenshot-enholding.ru-2022.01.13-10_36_38.png",
+"Severity/Priority":"Medium"
+}
